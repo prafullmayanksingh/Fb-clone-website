@@ -1,0 +1,17 @@
+{
+  "name": "Community",
+  "short_name": "Community",
+  "description": "Connect with friends and your community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#0866ff",
+  "icons": [
+    {
+      "src": "/community.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
